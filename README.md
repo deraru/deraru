@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Software Engineer, the president of @gitobi and the president of @ai-capital.
 <!--
 **deraru/deraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
